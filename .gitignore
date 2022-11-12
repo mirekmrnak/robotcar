@@ -1,4 +1,7 @@
+.gitignore
 .vscode/
 pokusy/
 backups/
 venv/
+Lukas/
+MNG_Workshop/
